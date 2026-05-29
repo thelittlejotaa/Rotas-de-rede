@@ -1,8 +1,3 @@
-##IMAGEM DO PROJETO
-
-<img width="1573" height="843" alt="image" src="https://github.com/user-attachments/assets/9a153d30-48c1-4b1e-99b5-3b822288d664" />
-
-
 # Projeto de Redes - Cisco Packet Tracer
 
 ## Descrição
@@ -14,6 +9,10 @@ A topologia foi desenvolvida com múltiplas redes locais interligadas por rotead
 O projeto também possui um servidor central responsável pelo serviço de DNS para todos os computadores da infraestrutura.
 
 ---
+
+##IMAGEM DO PROJETO
+
+<img width="1573" height="843" alt="image" src="https://github.com/user-attachments/assets/9a153d30-48c1-4b1e-99b5-3b822288d664" />
 
 ## Objetivos do Projeto
 
